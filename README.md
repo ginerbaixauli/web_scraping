@@ -7,3 +7,5 @@ This repository contains the results from web-scraping the Wikipedia website to 
 web_scraping.py contains the code for web_scraping and dataset creation
 
 dataset.csv contains the data created in the code
+
+plot.jpeg contains a visualization of the dataset
